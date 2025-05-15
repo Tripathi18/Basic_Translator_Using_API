@@ -78,6 +78,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 Feel free to contribute or suggest improvements!
-```
-Would you like me to save this as a `README.md` file and include it in your repo or download?
-```
